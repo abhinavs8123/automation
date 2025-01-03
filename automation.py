@@ -73,8 +73,6 @@ def main():
         elif choice == 2:                  
                 print("1 - GET ALL URLs")
                 print("2 - GET ALL PARAMETERS")
-                print("3 - XSS")
-                print("4 - SQL INJECTION")
                 ch = int(input("Enter your choice: "))
                 if ch == 1:
                         
